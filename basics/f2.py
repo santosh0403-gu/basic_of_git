@@ -1,0 +1,1 @@
+print("hello, word! from f2.py")
